@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cgmorah-developer/static/css/main.c73e0707.chunk.css",
+    "main.js": "/cgmorah-developer/static/js/main.d3fbc3fe.chunk.js",
+    "main.js.map": "/cgmorah-developer/static/js/main.d3fbc3fe.chunk.js.map",
+    "runtime-main.js": "/cgmorah-developer/static/js/runtime-main.a0385ca9.js",
+    "runtime-main.js.map": "/cgmorah-developer/static/js/runtime-main.a0385ca9.js.map",
+    "static/css/2.31ff0196.chunk.css": "/cgmorah-developer/static/css/2.31ff0196.chunk.css",
+    "static/js/2.93cd7f4b.chunk.js": "/cgmorah-developer/static/js/2.93cd7f4b.chunk.js",
+    "static/js/2.93cd7f4b.chunk.js.map": "/cgmorah-developer/static/js/2.93cd7f4b.chunk.js.map",
+    "static/js/3.78e0de47.chunk.js": "/cgmorah-developer/static/js/3.78e0de47.chunk.js",
+    "static/js/3.78e0de47.chunk.js.map": "/cgmorah-developer/static/js/3.78e0de47.chunk.js.map",
+    "index.html": "/cgmorah-developer/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/cgmorah-developer/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.c73e0707.chunk.css.map": "/cgmorah-developer/static/css/main.c73e0707.chunk.css.map",
+    "static/js/2.93cd7f4b.chunk.js.LICENSE.txt": "/cgmorah-developer/static/js/2.93cd7f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0385ca9.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.93cd7f4b.chunk.js",
+    "static/css/main.c73e0707.chunk.css",
+    "static/js/main.d3fbc3fe.chunk.js"
+  ]
+}
