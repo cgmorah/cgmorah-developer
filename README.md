@@ -9,3 +9,7 @@ My simple portfolio developer/designers built with React. by GIOVANNI MORA ⭐
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap 
+
+Install required dependencies
+
+<pre>yarn install</pre>
