@@ -22,17 +22,17 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Front Developmen - JavaScript (VueJs, ReactJs)",
         where: "Apparent Communications | Digital Agency",
-        date: "05/2022",
+        date: "2022",
     },
     {
         jobtitle: "WordPress / Magento - Full-Developmen",
         where: "Tangible | Digital Agency",
-        date: "06/2021",
+        date: "2021",
     },
     {
         jobtitle: "WordPress & SEO, FB  IG, GOOGLE Ad Development WEB",
         where: "VETEA",
-        date: "06/2021",
+        date: "2021",
     },
     {
         jobtitle: "Back Developmen - PHP WordPress - Laravel",
@@ -56,12 +56,12 @@ const skills = [{
         value: 99,
     },   
     {
-        name: "VueJS",
-        value: 80,
+        name: "React",
+        value: 85,
     },
     {
-        name: "React",
-        value: 70,
+        name: "VueJS",
+        value: 80,
     },
     {
         name: "PHP",
@@ -199,7 +199,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "cgmorah@gmail.com",
     YOUR_FONE: "+61 410 740 600 | +1 818 748 8317 ",
-    description: " I have a lot of experience in Develop WEB specially in PHP and JavaScript, I am Professional IT (Back-end & Front-end) experience in software, servers, management systems, database.",
+    description: "I have always liked the technology industry. It gives me the freedom to be myself with the people I can serve and help. I am passionate about everything I do, and I will always bring a great vibration and a smile to work. I would like to have the opportunity to talk more with you about any role and how I could use my skills to benefit you.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
