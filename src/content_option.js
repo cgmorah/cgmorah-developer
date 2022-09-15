@@ -1,6 +1,6 @@
-const logotext = "CGMORAH";
+const logotext = "{CGMORAH}";
 const meta = {
-    title: "GIOVANNI MORA",
+    title: "GIOVANNI MORA - Full Stack Devloper",
     description: "I’m Giovanni Mora data scientist _ Full stack devloper,currently working in Australia",
 };
 
