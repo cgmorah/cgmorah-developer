@@ -2,6 +2,7 @@
 
 My simple portfolio developer/designers built with React. by GIOVANNI MORA ⭐
 
+### [live preview](https://cgmorah.github.io/cgmorah-developer/)
 
 ### Features
 
