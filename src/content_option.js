@@ -1,144 +1,205 @@
-const logotext = "JOHN";
+const logotext = "CGMORAH";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "GIOVANNI MORA",
+    description: "I’m Giovanni Mora data scientist _ Full stack devloper,currently working in Australia",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Giovanni Mora",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I develop web apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I've been DEVELOPING for seventeen years.",
+    your_img_url: "https://images.unsplash.com/photo-1607799131608-9a22dd60e25e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&q=80",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a JavaScript / PHP  Web Developer (Full-Stack), ReactJS, VueJS, Laravel, CodeIgniter, Symfony, Angular, Bootstrap, Foundation, LESS, Sass, HTML5, CSS3, SQL, with experience in administration and creation of CMS, LMS, eCommerce. Senior in WordPress Develop, DRUPAL developer & MAGENTO Develop, high knowledge in design (Design UX) ... others",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Front Developmen - JavaScript (VueJs, ReactJs)",
+        where: "Apparent Communications | Digital Agency",
+        date: "05/2022",
+    },
+    {
+        jobtitle: "WordPress / Magento - Full-Developmen",
+        where: "Tangible | Digital Agency",
+        date: "06/2021",
+    },
+    {
+        jobtitle: "WordPress & SEO, FB  IG, GOOGLE Ad Development WEB",
+        where: "VETEA",
+        date: "06/2021",
+    },
+    {
+        jobtitle: "Back Developmen - PHP WordPress - Laravel",
+        where: "AirKeeper | Web Agency",
         date: "2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Back Developmen - Magento Developer",
+        where: "Verdikt | Web Agency",
+        date: " 2019",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Full Stack Developer - Magento e-Commerce",
+        where: "CORVETA",
+        date: " 2018",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
+        name: "JavaScript ",
+        value: 99,
+    },   
     {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "VueJS",
         value: 80,
     },
     {
         name: "React",
-        value: 60,
+        value: 70,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "PHP",
+        value: 99,
     },
+    {
+        name: "Laravel",
+        value: 77,
+    },
+    {
+        name: "CodeIgniter",
+        value: 80,
+    },
+    {
+        name: "NodeJS",
+        value: 70,
+    },
+    {
+        name: "SQL",
+        value: 80,
+    },
+    {
+        name: "HTML5",
+        value: 99,
+    },
+    {
+        name: "CSS3",
+        value: 99,
+    },
+    {
+        name: "Bootstrap",
+        value: 89,
+    },
+    {
+        name: "LESS",
+        value: 80,
+    },
+    {
+        name: "Sass",
+        value: 80,
+    },
+    {
+        name: "CMS",
+        value: 90,
+    },
+    {
+        name: "eCommerce ",
+        value: 90,
+    },
+    {
+        name: "LMS",
+        value: 90,
+    },
+    {
+        name: "Design UX",
+        value: 90,
+    },
+    {
+        name: "SEO",
+        value: 97,
+    },
+    {
+        name: "Markting",
+        value: 92,
+    },
+
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "PHP Development and Consulting",
+        description: "Based on 15 years of PHP development, my PHP experience enables me to offer robust web portals, B2C and B2B web applications, CMS and other web-based solutions.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "JavaScript Development",
+        description: "I can offer the best end-to-end JavaScript development services for any enterprise to help meet the requirements of each complex project and long-term business objectives. With JavaScript and its different frameworks I can implement complex features in any web project. With square bracket syntax, dynamic writing, prototype-based object orientation, and first-class functions. Along with HTML and CSS, JavaScript is one of the core technologies of the World Wide Web.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "eCommerce Services",
+        description: "I can cover the technical needs related to the technology of an e-commerce business. With my extensive experience in e-commerce I am ready for any challenge.",
+    },
+    {
+        title: "Full-service CMS",
+        description: "I am able to design and build cutting-edge web and mobile experiences. I can create end-to-end applications from WordPress and Drupal, from strategy and planning to design and development, as well as complete data migration, extensive API integrations, scalability, performance and long-term orientation and maintenance.",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ whuws.com (GSAP, Open Graph)",
+        link: "https://whuws.com/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ sgac.com.au (WordPress Oxygen Builder, CPT and ACF)",
+        link: "https://www.sgac.com.au/",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        desctiption: "✓ snowplowanalytics.com (WordPress build own theme) ",
+        link: "https://snowplowanalytics.com/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ civilcast.com.au (WooCommerce)",
+        link: "https://civilcast.com.au/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ alliancemetal.com.au (WordPress) ",
+        link: "https://www.alliancemetal.com.au/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ maxtonfox.com.au (WordPress) ",
+        link: "https://www.maxtonfox.com.au/",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ dashboard.airkeeper.com.au (Laravel)",
+        link: "https://host.airkeeper.com.au/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ nybeautysalon.com.au (WordPress)",
+        link: "https://nybeautysalon.com.au/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "✓ tutradingchart.com (Angular) ",
+        link: "https://www.tutradingchart.com/",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "cgmorah@gmail.com",
+    YOUR_FONE: "+61 410 740 600 | +1 818 748 8317 ",
+    description: " I have a lot of experience in Develop WEB specially in PHP and JavaScript, I am Professional IT (Back-end & Front-end) experience in software, servers, management systems, database.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,12 +208,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    github: "https://github.com/cgmorah",
+    linkedin: "https://www.linkedin.com/in/cgmorah/",
+    twitter: "https://twitter.com/cgmorah",
+    behance: "http://www.behance.net/cgmorah",
 };
 export {
     meta,
