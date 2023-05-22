@@ -20,6 +20,11 @@ const dataabout = {
     aboutme: "I am a JavaScript / PHP  Web Developer (Full-Stack), ReactJS, VueJS, Laravel, CodeIgniter, Symfony, Angular, Bootstrap, Foundation, LESS, Sass, HTML5, CSS3, SQL, with experience in administration and creation of CMS, LMS, eCommerce. Senior in WordPress Develop, DRUPAL developer & MAGENTO Develop, high knowledge in design (Design UX) ... others",
 };
 const worktimeline = [{
+        jobtitle: "Magento eCommerce Plataform Manager / Develop",
+        where: "HMCentral Pty Ltd",
+        date: "2022 - 2023",
+    },
+    {
         jobtitle: "Front Developmen - JavaScript (VueJs, ReactJs)",
         where: "Apparent Communications | Digital Agency",
         date: "2022",
