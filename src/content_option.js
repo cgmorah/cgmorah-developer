@@ -20,6 +20,16 @@ const dataabout = {
     aboutme: "I am a JavaScript / PHP  Web Developer (Full-Stack), ReactJS, VueJS, Laravel, CodeIgniter, Symfony, Angular, Bootstrap, Foundation, LESS, Sass, HTML5, CSS3, SQL, with experience in administration and creation of CMS, LMS, eCommerce. Senior in WordPress Develop, DRUPAL developer & MAGENTO Develop, high knowledge in design (Design UX) ... others",
 };
 const worktimeline = [{
+        jobtitle: "Freelance Full Stack PHP Developer",
+        where: "Freelance",
+        date: "Dec 2023 – Present",
+    },
+    {
+        jobtitle: "WordPress Full Stack Web Developer",
+        where: "The Marketing Project",
+        date: "Nov 2023–Dec 2023",
+    },
+    {
         jobtitle: "Magento eCommerce Plataform Manager / Develop",
         where: "HMCentral Pty Ltd",
         date: "2022 - 2023",
@@ -203,7 +213,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "cgmorah@gmail.com",
-    YOUR_FONE: "+61 410 740 600 | +1 818 748 8317 ",
+    YOUR_FONE: "+61 400 481 389 | +1 818 748 8317 ",
     description: "I have always liked the technology industry. It gives me the freedom to be myself with the people I can serve and help. I am passionate about everything I do, and I will always bring a great vibration and a smile to work. I would like to have the opportunity to talk more with you about any role and how I could use my skills to benefit you.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
