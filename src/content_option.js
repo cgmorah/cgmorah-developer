@@ -164,7 +164,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://whuws.com/images/portfolio/WHUWS-S-Brand-Digital-Agency.png",
         desctiption: "✓ whuws.com (GSAP, Open Graph)",
         link: "https://whuws.com/",
     },
