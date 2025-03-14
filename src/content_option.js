@@ -169,12 +169,17 @@ const dataportfolio = [{
         link: "https://whuws.com/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://whuws.com/images/portfolio/Your-B2B-Marketing-Agency-The-Marketing-Project.png",
+        desctiption: "✓ WordPress Full Stack Web Developer",
+        link: "https://themarketingproject.com.au/",
+    },
+    {
+        img: "https://whuws.com/images/portfolio/Sydney-Gymnastic-and-Aquatic-Centre-West-HQ.png",
         desctiption: "✓ sgac.com.au (WordPress Oxygen Builder, CPT and ACF)",
         link: "https://www.sgac.com.au/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://whuws.com/images/portfolio/snowplow.png",
         desctiption: "✓ snowplowanalytics.com (WordPress build own theme) ",
         link: "https://snowplowanalytics.com/",
     },
@@ -205,9 +210,9 @@ const dataportfolio = [{
         link: "https://nybeautysalon.com.au/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://whuws.com/images/portfolio/TuTradingChart.png",
         desctiption: "✓ tutradingchart.com (Angular) ",
-        link: "https://www.tutradingchart.com/",
+        link: "#",
     },
 ];
 
